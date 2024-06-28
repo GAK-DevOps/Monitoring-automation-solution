@@ -1,0 +1,3 @@
+_sourceCategory=your/source/category
+| parse "response_time=*ms" as response_time
+| where endpoint="/api/data" and response_time > 3000
