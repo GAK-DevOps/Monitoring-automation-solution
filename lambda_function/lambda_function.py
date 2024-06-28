@@ -5,8 +5,8 @@ ec2 = boto3.client('ec2')
 sns = boto3.client('sns')
 
 def lambda_handler(event, context):
-    instance_id = os.getenv('INSTANCE_ID')
-    sns_topic_arn = os.getenv('SNS_TOPIC_ARN')
+    instance_id = os.getenv('i-04a7ec32fd94334eb')
+    sns_topic_arn = os.getenv('arn:aws:ec2:us-east-1:970589765450:instance/i-04a7ec32fd94334eb')
     
     # Restart the EC2 instance
     ec2.reboot_instances(InstanceIds=[instance_id])
