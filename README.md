@@ -15,6 +15,6 @@
 - **Verification**: Confirmed that all resources are created and function as expected.
 
 ## Screen and Audio Recordings
-- Part 1: [Link to recording](./recordings/part1.mp4)
-- Part 2: [Link to recording](./recordings/part2.mp4)
-- Part 3: [Link to recording](./recordings/part3.mp4)
+- SumoLogic Query: https://drive.google.com/file/d/1PO8KdgCPsM83BGAUwXVO8bgyIGF_jTRK/view?usp=drive_link
+- AWS Lambda Function: https://drive.google.com/file/d/1UCriUZydP87nEhlJvTT2j6pIkSiVwFVl/view?usp=drive_link
+- Terraform: https://drive.google.com/file/d/1tehchXbmzOciqbR-tC7-WzRK5skZTI-D/view?usp=drive_link
