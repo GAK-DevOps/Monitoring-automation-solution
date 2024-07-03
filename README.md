@@ -1,4 +1,4 @@
-# Monitoring and Automation Solution
+# Monitoring and Automation Solution using Sumo Logic, AWS Lambda, and Terraform.
 
 ## Sumo Logic Query and Alert
 - **Query**: Identify log entries where the response time of the `/api/data` endpoint exceeds 3 seconds.
