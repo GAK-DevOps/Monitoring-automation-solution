@@ -14,7 +14,3 @@
 - **Deployment**: Deployed using `terraform apply`.
 - **Verification**: Confirmed that all resources are created and function as expected.
 
-## Screen and Audio Recordings
-- SumoLogic Query: https://drive.google.com/file/d/1PO8KdgCPsM83BGAUwXVO8bgyIGF_jTRK/view?usp=drive_link
-- AWS Lambda Function: https://drive.google.com/file/d/1UCriUZydP87nEhlJvTT2j6pIkSiVwFVl/view?usp=drive_link
-- Terraform: https://drive.google.com/file/d/1tehchXbmzOciqbR-tC7-WzRK5skZTI-D/view?usp=drive_link
