@@ -1,7 +1,7 @@
 import boto3
 
 def lambda_handler(event, context):
-  # Hardcoded instance ID (replace with your actual ID)
+  # Hardcoded instance ID (replace with your actuactualll ID)
   instance_id = "i-0c3555e7c92585457"
 
   # Corrected SNS topic ARN (replace if different)
